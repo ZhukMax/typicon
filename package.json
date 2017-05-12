@@ -1,0 +1,16 @@
+{
+  "name": "typicon",
+  "version": "1.0.0",
+  "description": "Typicons.font ReactJS component",
+  "main": "index.js",
+  "repository": "https://github.com/ZhukMax/typicon.git",
+  "bugs": {
+    "url": "https://github.com/ZhukMax/typicon/issues"
+  },
+  "author": "ZhukMax <zhukmax@ya.ru>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "typicons.font": "2.*",
+    "react": "15.*"
+  }
+}
